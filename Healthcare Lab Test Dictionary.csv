@@ -1,0 +1,458 @@
+Raw Data Headers,Standardized Headers
+NULL,NA
+ACANTH,"PB - Phenotype: Acanthocytes {0 = none, 1 = few, 2 = many}"
+ADEN DNA,"PB - Pathology: Adenovirus DNA {0 = Negative, 1 = Positive}"
+ALB/GLOB,PB - Blood Chemistry: ALB/GLOB - Albumin/Globulin {g/dL}
+ALBUMIN,PB - Blood Chemistry: ALB - Albumin {g/dL}
+ALK PHOS,PB - Blood Chemistry: ALP - Alkaline Phosphatase {U/L}
+ALT,PB - Blood Chemistry: ALT - Alanine Aminotransferase {U/L}
+ANIONGAP,PB - Blood Chemistry: Anion Gap {mmol/L}
+ANISOCYTOS,"PB - Phenotype: Anisocytosis {0 = slight, 1 = moderate, 2 = marked}"
+AST,PB - Blood Chemistry: AST - Aspartate Aminotransferase {U/L}
+BANDS PCT,PB - Phenotype: Neutrophil Bands {Percent}
+BASO %,PB - CBC: Basophils Auto {Percent}
+BASOS ABS,PB - CBC: Basophils Abs {10^9/L}
+BILI DIR,PB - Blood Chemistry: Bilirubin {mg/dL}
+BILI TOTAL,PB - Blood Chemistry: Bilirubin {mg/dL}
+BUN,PB - Blood Chemistry: Blood Urea Nitrogen {mg/dL}
+BUN/CRE,PB - Blood Chemistry: Blood Urea Nitrogen/CRE {mg/dL}
+BUN/CREA,PB - Blood Chemistry: Blood Urea Nitrogen/CRE {mg/dL}
+CALCIUM,PB - Blood Chemistry: Calcium {mg/dL}
+CD3 ABS,PB - CBC: CD3+ Abs {10^9/L}
+CD3%,PB - CBC: CD3+ Auto {Percent}
+CD4 ABS,PB - CBC: CD4+ Abs {10^9/L}
+CD4%,PB - CBC: CD4+ Auto {Percent}
+CHOL,PB - Serum: Cholesterol {mg/dL}
+CHOL/HDL ,PB - Serum: Cholesterol/HDL {ratio}
+CL,PB - Blood Chemistry: Chloride {mmol/dL}
+CO2,PB - Blood Chemistry: CO2 {mmol/dL}
+CREA,PB - Blood Chemistry: Creatinine {mg/dL}
+CV 229E,"PB - Pathology: Coronavirus 229E DNA {0 = Negative, 1 = Positive}"
+CV HKU1,"PB - Pathology: Coronavirus HKU1 DNA {0 = Negative, 1 = Positive}"
+CV NL63,"PB - Pathology: Coronavirus NL63 DNA {0 = Negative, 1 = Positive}"
+CV OC43,"PB - Pathology: Coronavirus OC43 DNA {0 = Negative, 1 = Positive}"
+DOHLE BODY,"PB - Phenotype: Dohle Bodies {0 = none, 1 = few, 2 = many}"
+EBVNUCAG,PB - Pathology: Epstein Barr Virus IgG Nuclear Antigen {U/mL}
+EBVVCAIGG,"PB - Pathology: Epstein Barr Virus Interpretation {0 = Negative, 1 = Positive}"
+EBVVCAIGM,"PB - Pathology: Epstein Barr Virus Interpretation {0 = Negative, 1 = Positive}"
+ECHINOCYTE,"PB - Phenotype: Eichoncytes {0 = none, 1 = few, 2 = many}"
+eGFR if AA,PB - Blood Chemistry: EGFR - Estimated Glomerular Filtration Rate (African American) {mL/min}
+ELLIPTOCYT,"PB - Phenotype: Elliptocytes {0 = none, 1 = few, 2 = many}"
+EOS %,PB - CBC: Eosinophils Auto {Percent}
+EOSINO ABS,PB - CBC: Eosinophils Abs {10^9/L}
+FLU A,"PB - Pathology: Influenza A DNA {0 = Negative, 1 = Positive}"
+FLU B,"PB - Pathology: Influenza B DNA {0 = Negative, 1 = Positive}"
+GFR if not,PB - Blood Chemistry: EGFR - Estimated Glomerular Filtration Rate (Non-African American) {mL/min}
+GLOBULIN,PB - Blood Chemistry: ELP - Globulin {g/dL}
+GLU,UA - Dipstick: Glucose {mg/dL}
+HBCOREIGM,"PB - Pathology: Hepatitis B Core IgM Antibody {0 = Negative, 1 = Positive}"
+HBV,"PB - Pathology: Hepatitis B Serum Test {0 = Negative, 1 = Positive}"
+HCT,PB - CBC: Hematocrit {Percent}
+HCV,"PB - Pathology: Hepatitis C Serum Test {0 = Negative, 1 = Positive}"
+HDL,PB - Blood Chemistry: HDL - Total HDL Cholesterol {mg/dL}
+HEP A IGM,"PB - Pathology: Hepatitis A IgM Antibody {0 = Negative, 1 = Positive}"
+HGB,PB - CBC: Hemoglobin {g/dL}
+HMPV,"PB - Pathology: Human Metapneumovirus RNA {0 = Negative, 1 = Positive}"
+K,PB - Blood Chemistry: Potassium Blood Venous {mmol/L}
+LDH TOTAL,PB - Blood Chemistry: LDH - Lactate Dehydrogenase {IU/L}
+LDL,PB - Blood Chemistry: LDL - Total LDL Cholesterol {mg/dL}
+LYMPHO PCT,PB - CBC: Lymphocytes Auto {Percent}
+LYMPHS ABS,PB - CBC: Lymphocytes Abs {10^9/L}
+M. PNEUMO,"PB - Pathology: Mycoplasma Pneumoniae {0 = Negative, 1 = Positive}"
+MACROCYTES,"PB - Phenotype: Macrocytes {0 = slight, 1 = moderate, 2 = marked}"
+MCH,PB - CBC: MCH {pg}
+MCHC,PB - CBC: MCHC {g/dL}
+MCV,PB - CBC: MCV {fL}
+METASPCT,PB - CBC: Metamyelocyte {Percent}
+MG,PB - Blood Chemistry: Magnesium {mg/dL}
+MICROCYTES,"PB - CBC: Microcyte {0 = slight, 1 = moderate, 2 = marked}"
+MONO %,PB - CBC: Monocytes Auto {Percent}
+MONO ABS,PB - CBC: Monocytes Abs {10^9/L}
+MPV,PB - CBC: MPV {fL}
+Myelo PCT,PB - CBC: Myelocyte {Percent}
+MYELOPEROX,PB - Pathology: Myeloperoxidase IgG AB {AU/mL}
+Sodium,PB - Blood Chemistry: Sodium {mmol/L}
+NEUT %,PB - CBC: Neutrophils Auto {Percent}
+NEUTRO ABS,PB - CBC: Neutrophils Abs {10^9/L}
+NRBC,PB - CBC: NRBC - Nucleated Red Blood Cells {Percent}
+OSMOLALITY,PB - Blood Chemistry: Osmolality {mOsm/kg}
+PHOS,PB - Blood Chemistry: Phosphorus {mg/dL}
+PLT,PB - CBC: PLT - Platelets {10^9/L}
+POIK,"PB - CBC: Poikilocytosis {0 = slight, 1 = moderate, 2 = marked}"
+POLYCHROM,"PB - CBC: Polychromasia {0 = slight, 1 = moderate, 2 = marked}"
+PREALBUMIN,PB - Blood Chemistry: ALB - Pre-Albumin {mg/dL}
+RBC,PB - CBC: RBC {10^12/L}
+RBC FRAGS,"PB - CBC: RBC Fragments {0 = slight, 1 = moderate, 2 = marked}"
+RBCMORPH,"PB - CBC: RBC Morphology {0 = normal, 1 = abnormal}"
+RDW,PB - CBC: RDW-SD {fL}
+RDW-SD,PB - CBC: RDW-SD {fL}
+RHINO+ENTR,"PB - Pathology: RSV - Rhino and Entero Virus {0 = Negative, 1 = Positive}"
+RSV PCR,"PB - Pathology: RSV - Respiratory Syncytial Virus {0 = Negative, 1 = Positive}"
+TEARDROP,"PB - CBC: Dacrocyte {0 = few, 1 = moderate, 2 = marked}"
+TP,PB - Blood Chemistry: TP - Total Protein {g/dL}
+TRIG,PB - Serum: Triglycerides {mg/dL}
+VACUOLES,"PB - CBC: Vacuoles {0 = few, 1 = moderate, 2 = marked}"
+WBC,PB - CBC: WBC {10^9/L}
+"ALBUMIN, PLASMA (LAB)",PB - Blood Chemistry: ALB - Albumin {g/dL}
+"ALBUMIN, CMP POC",PB - Blood Chemistry: ALB - Albumin {g/dL}
+ALK PHOS,PB - Blood Chemistry: ALP - Alkaline Phosphatase {U/L}
+"ALK PHOS, CMP POC",PB - Blood Chemistry: ALP - Alkaline Phosphatase {U/L}
+ALT (SGPT),PB - Blood Chemistry: ALT - Alanine Aminotransferase {U/L}
+"ALT, CMP POC",PB - Blood Chemistry: ALT - Alanine Aminotransferase {U/L}
+ANION GAP,PB - Blood Chemistry: Anion Gap {mmol/L}
+AST(SGOT),PB - Blood Chemistry: AST - Aspartate Aminotransferase {U/L}
+"AST, CMP POC",PB - Blood Chemistry: AST - Aspartate Aminotransferase {U/L}
+BASO #,PB - CBC: Basophils Abs {10^9/L}
+"BASO #, POC",PB - CBC: Basophils Abs {10^9/L}
+"BASO %, POC",PB - CBC: Basophils Auto {Percent}
+BILIRUBIN TOTAL,PB - Blood Chemistry: Bilirubin {mg/dL}
+"BILIRUBIN TOTAL, CMP POC",PB - Blood Chemistry: Bilirubin {mg/dL}
+BILIRUBIN,UA - Dipstick: Bilirubin
+"BILIRUBIN (UA DIP), POC",UA - Dipstick: Bilirubin
+BLOOD,UA - Dipstick: Blood
+"BLOOD (UA DIP), POC",UA - Dipstick: Blood
+"BUN, PLASMA (LAB)",PB - Blood Chemistry: Blood Urea Nitrogen {mg/dL}
+"BUN, POC",PB - Blood Chemistry: Blood Urea Nitrogen {mg/dL}
+"CALCIUM TOTAL, POC",PB - Blood Chemistry: Calcium {mg/dL}
+"CALCIUM, PLASMA (LAB)",PB - Blood Chemistry: Calcium {mg/dL}
+"CHLORIDE, PLASMA (LAB)",PB - Blood Chemistry: Chloride {mmol/dL}
+"CHLORIDE, POC",PB - Blood Chemistry: Chloride {mmol/dL}
+"COLOR (UA DIP), POC",UA - Dipstick: Color
+COLOR(UR),UA - Dipstick: Color
+C-REACTIVE PROTEIN,PB - C-Reactive Protein {mg/L}
+CREATININE,PB - Blood Chemistry: Creatinine {mg/dL}
+CREATININE PLASMA (LAB),PB - Blood Chemistry: Creatinine {mg/dL}
+EGFR AFRICAN- AMERICAN,PB - Blood Chemistry: EGFR - Estimated Glomerular Filtration Rate (African American) {mL/min}
+EGFR NON AFRICAN-AMERICAN,PB - Blood Chemistry: EGFR - Estimated Glomerular Filtration Rate (Non-African American) {mL/min}
+EOS #,PB - CBC: Eosinophils Abs {10^9/L}
+"EOS #, POC",PB - CBC: Eosinophils Abs {10^9/L}
+"EOS %, POC",PB - CBC: Eosinophils Auto {Percent}
+FREE T4,PB - Blood Chemistry: Free T4 {ng/dL}
+"FREE T4, SERUM",PB - Blood Chemistry: Free T4 {ng/dL}
+"GLUCOSE (UA DIP), POC",UA - Dipstick: Glucose {mg/dL}
+GLUCOSE(UR),UA - Dipstick: Glucose {mg/dL}
+"GLUCOSE, PLASMA (LAB)",UA - Dipstick: Glucose {mg/dL}
+HCT POC,PB - CBC: Hematocrit {Percent}
+HEMATOCRIT,PB - CBC: Hematocrit {Percent}
+HEMOGLOBIN,PB - CBC: Hemoglobin {g/dL}
+HGB POC,PB - CBC: Hemoglobin {g/dL}
+IMMATURE GRANULOCYTE#,PB - CBC: Immature Granulocyte Abs {K/cu mm}
+IMMATURE GRANULOCYTE%,PB - CBC: Immature Granulocyte Auto {Percent}
+KETONES,UA - Dipstick: Ketones {mg/dL}
+"KETONES (UA DIP), POC",UA - Dipstick: Ketones {mg/dL}
+"LEUKOCYTES (UA DIP), POC",UA - Dipstick: Leukocytes {mg/dL}
+LYMPH %,PB - CBC: Lymphocytes Auto {Percent}
+LYMPH% POC,PB - CBC: Lymphocytes Auto {Percent}
+LYMPH# POC,PB - CBC: Lymphocytes Abs {10^9/L}
+LYMPHOCYTE #,PB - CBC: Lymphocytes Abs {10^9/L}
+MCHC,PB - CBC: MCHC {g/dL}
+"MCHC POC, ",PB - CBC: MCHC {g/dL}
+MCH,PB - CBC: MCH {pg}
+MCV POC,PB - CBC: MCV {fL}
+"MONO #, POC",PB - CBC: Monocytes Abs {10^9/L}
+ MONOCYTE #,PB - CBC: Monocytes Abs {10^9/L}
+" MONO %, POC",PB - CBC: Monocytes Auto {Percent}
+ MPV POC,PB - CBC: MPV {fL}
+"NEUTRO %, ",PB - CBC: Neutrophils Auto {Percent}
+NEUTROPHIL %,PB - CBC: Neutrophils Auto {Percent}
+NEUTROPHIL #,PB - CBC: Neutrophils Abs {10^9/L}
+NEUTROPHIL# POC,PB - CBC: Neutrophils Abs {10^9/L}
+NITRITES,UA - Dipstick: Nitrites
+"NITRITES (UA DIP), POC",UA - Dipstick: Nitrites
+NRBC#,PB - CBC: NRBC - Nucleated Red Blood Cells {K/cu mm}
+NRBC%,PB - CBC: NRBC - Nucleated Red Blood Cells {Percent}
+"PH (UA DIP), POC",UA - Dipstick: pH
+PH(UR),UA - Dipstick: pH
+PLATELET COUNT,PB - CBC: PLT - Platelets {10^9/L}
+PLT POC,PB - CBC: PLT - Platelets {10^9/L}
+"POTASSIUM, POC",PB - Blood Chemistry: Potassium Blood Venous {mmol/L}
+"POTASSIUM, PLASMA  (LAB)",PB - Blood Chemistry: Potassium Blood Venous {mmol/L}
+"PROTEIN (UA DIP), POC",UA - Dipstick: Protein {mg/dL)
+"PROTEIN TOTAL, CMP POC",PB - Blood Chemistry: TP - Total Protein {g/dL}
+PSA TOTAL MONITORING,PB - Blood Chemistry: PSA Total {ng/mL}
+"PSA, ULTRASENSITIVE",PB - Blood Chemistry: PSA Total {ng/mL}
+RBC POC,PB - CBC: RBC {10^12/L}
+RED CELL COUNT,PB - CBC: RBC {10^12/L}
+RDW SD,PB - CBC: RDW-SD {fL}
+"RDW SD, POC",PB - CBC: RDW-SD {fL}
+"SODIUM, PLASMA (LAB)",PB - Blood Chemistry: Sodium {mmol/L}
+"SODIUM, POC",PB - Blood Chemistry: Sodium {mmol/L}
+SPECIFIC GRAVITY,UA - Dipstick: Specific Gravity
+"SPECIFIC GRAVITY (UA DIP), POC",UA - Dipstick: Specific Gravity
+"T3, TOTAL",PB - Blood Chemistry: T3 Total {ng/dL}
+"TOTAL CO2, POC",PB - Blood Chemistry: CO2 {mmol/dL}
+" TOTAL CO2, PLASMA (LAB)",PB - Blood Chemistry: CO2 {mmol/dL}
+TSH,PB - Blood Chemistry: TSH {mIU/L}
+UROBILINOGEN,UA - Dipstick: Urobilinogen
+"UROBILINOGEN (UA DIP), POC",UA - Dipstick: Urobilinogen
+WBC POC,PB - CBC: WBC {10^9/L}
+WHITE CELL COUNT,PB - CBC: WBC {10^9/L}
+ELLIPTOCYTES,PB - Phenotype: Elliptocytes {Counts}
+ABSOLUTE RETIC COUNT (OLD),PB - CBC: Reticulocyte Count {10^9/L}
+VENTRICULAR RATE EKG,ECG - Ventricular Rate {BPM}
+ATRIAL RATE,ECG - Atrial Rate {BPM}
+P-R INTERVAL,ECG - PR Interval {ms}
+QRS DURATION,ECG - QRS Interval {ms}
+Q-T INTERVAL,ECG - Q-T Interval {ms}
+Q-T INTERVAL (CORRECTED),ECG - Q-T Interval Corrected {ms}
+P WAVE AXIS,ECG - P Wave Axis {ms}
+QRS AXIS,ECG - QRS Axis {ms}
+T AXIS,ECG - T Axis {ms}
+NEUTROPHILS %,PB - CBC: Neutrophils Auto {Percent}
+BANDS-REL(DIFF),PB - Phenotype: Neutrophil Bands {Percent}
+LYMPHOCYTES %,PB - CBC: Lymphocytes Auto {Percent}
+MONOCYTES.BLD.QN (%)(BEAKER),PB - CBC: Monocytes Auto {Percent}
+EOSINOPHILS %.BLD.QN (BEAKER),PB - CBC: Eosinophils Auto {Percent}
+MANUAL DIFFERENTIAL?,NA
+RBC MORPHOLOGY,"PB - CBC: RBC Morphology {0 = normal, 1 = abnormal}"
+PLATELET ESTIMATE.BLOOD.ORD (BEAKER),PB - CBC: PLT - Platelets {10^9/L}
+NEUTROPHILS ABS,PB - CBC: Neutrophils Abs {10^9/L}
+LYMPHOCYTES ABS,PB - CBC: Lymphocytes Abs {10^9/L}
+MONOCYTES-ABS(DIFF),PB - CBC: Monocytes Abs {10^9/L}
+EOSINOPHILS-ABS(DIFF),PB - CBC: Eosinophils Abs {10^9/L}
+POTASSIUM,PB - Blood Chemistry: Potassium Blood Venous {mmol/L}
+CHLORIDE,PB - Blood Chemistry: Chloride {mmol/dL}
+GLUCOSE,PB - Blood Chemistry: Glucose {mg/dL}
+BLOOD UREA NITROGEN,PB - Blood Chemistry: Blood Urea Nitrogen {mg/dL}
+"CREATININE, SERUM (BEAKER)",PB - Blood Chemistry: Creatinine {mg/dL}
+BUN/CREATININE,PB - Blood Chemistry: Blood Urea Nitrogen/CRE {mg/dL}
+ALKALINE PHOSPHATASE,PB - Blood Chemistry: ALP - Alkaline Phosphatase {U/L}
+BILIRUBIN TOTAL,PB - Blood Chemistry: Bilirubin {mg/dL}
+AST (SGOT),PB - Blood Chemistry: AST - Aspartate Aminotransferase {U/L}
+TOTAL PROTEIN,PB - Blood Chemistry: TP - Total Protein {g/dL}
+GLOBULIN.XXX.QN.ELP (REF),PB - Blood Chemistry: ELP - Globulin {g/dL}
+ALBUMIN/GLOBULIN.SER/PLAS.QN (RATIO),PB - Blood Chemistry: ALB/GLOB - Albumin/Globulin {g/dL}
+EGFR IF AFRICAN AMERICAN,PB - Blood Chemistry: EGFR - Estimated Glomerular Filtration Rate (African American) {mL/min}
+EGFR IF NOT AFRICAN AMERICAN,PB - Blood Chemistry: EGFR - Estimated Glomerular Filtration Rate (Non-African American) {mL/min}
+"CORTISOL, TOTAL.SER/PLAS.QN (1DEC)(BEAKER)",PB - Blood Chemistry: Cortisol {ug/dL}
+LACTATE DEHYDROGENASE,PB - Blood Chemistry: LDH - Lactate Dehydrogenase {IU/L}
+"TESTOSTERONE, TOTAL (AK)",PB - Blood Chemistry: Testosterone {ng/dL}
+HEMOGLOBIN.BLOOD.QN.AUTO (BEAKER),PB - CBC: Hemoglobin {g/dL}
+HEMATOCRIT.BLOOD.QN.AUTO (%)(BEAKER)(DUP),PB - CBC: Hematocrit {Percent}
+MCHC.BLD.QN (%)(BEAKER),PB - CBC: MCHC {g/dL}
+PLATELET.BLD.QN.AUTO (10*3/UL)(BEAKER),PB - CBC: PLT - Platelets {10^9/L}
+APTT.PPP.QN (BEAKER)(1DEC),PB - APTT: Activated Partial Thromboplastin Time {seconds}
+PROTHROMBIN TIME.PPP.QN (BEAKER),PB - PT: Prothombin Time {seconds}
+INR.PPP.QN (BEAKER),PB - INR: International Normalized Ratio
+TSH.SER/PLAS.QN (UIU/ML)(2DEC)(BEAKER),PB - Blood Chemistry: TSH {mIU/L}
+FREE T4 (REF),PB - Blood Chemistry: Free T4 {ng/dL}
+INTERPRETATION TEXT,NA
+BASOPHILS %.BLD.QN (BEAKER),PB - CBC: Basophils Auto {Percent}
+METAMYELOCYTES-REL(DIFF),PB - Phenotype: Metamyelocytes {Percent}
+BASOPHILS ABS,PB - CBC: Basophils Abs {10^9/L}
+BAND ESTIMATE,PB - Phenotype: Band Estimate {Percent}
+HEMOGRAM COMMENTS,NA
+BILIRUBIN DIRECT (1 DEC)(MG/DL)(BEAKER),PB - Blood Chemistry: Bilirubin {mg/dL}
+PHOSPHORUS.SER/PLAS.QN (MG/DL)(BEAKER),PB - Blood Chemistry: Phosphorus {mg/dL}
+URIC ACID.SER/PLAS.QN (MG/DL)(BEAKER),PB - Blood Chemistry: Uric Acid {mg/dL}
+LUTEINIZING HORMONE,PB - Blood Chemistry: LH - Luteinizing Hormone {mIU/L}
+MAGNESIUM.SER/PLAS.QN (MG/DL)(BEAKER),PB - Blood Chemistry: Magnesium {mg/dL}
+FREE T3 (REF),PB - Blood Chemistry: Free T3 {pg/dL}
+CORTICOTROPIN.PLAS.QN (REF),PB - Blood Chemistry: LH - Corticotropin {pg/mL}
+COMMENT (REF),NA
+FSH (AK),PB - Blood Chemistry: FSH - Follicle Stimulating Hormone {mIU/L}
+FREE T4 (AK),PB - Blood Chemistry: Free T3 {ng/dL}
+"T3, TOTAL (NG/ML)(BEAKER)",PB - Blood Chemistry: T3 Total {ng/dL}
+T4 (AK),PB - Blood Chemistry: T4 Total {ug/dL}
+COLOR UA,UA - Dipstick: Color
+CLARITY UA,UA - Dipstick: Clarity
+SPECIFIC GRAVITY UA,UA - Dipstick: Specific Gravity
+PH UA,UA - Dipstick: pH
+PROTEIN UA,UA - Dipstick: Protein {mg/dL)
+GLUCOSE UA,UA - Dipstick: Glucose {mg/dL}
+KETONES UA,UA - Dipstick: Ketones {mg/dL}
+BLOOD UA,UA - Dipstick: Blood
+BILIRUBIN UA,UA - Dipstick: Bilirubin
+NITRITE UA,UA - Dipstick: Nitrites
+LEUKOCYTE ESTERASE UA,UA - Dipstick: Leukocytes {mg/dL}
+POC GLUCOSE,PB - Blood Chemistry: Glucose {mg/dL}
+POC CREATININE (BEAKER),PB - Blood Chemistry: Creatinine {mg/dL}
+RBC FRAGMENTS,"PB - CBC: RBC Fragments {0 = slight, 1 = moderate, 2 = marked}"
+ANISOCYTOSIS,"PB - Phenotype: Anisocytosis {0 = slight, 1 = moderate, 2 = marked}"
+UA CULTURE INDICATED ,NA
+COLLECTION METHOD 3,NA
+WBC UA,UA - Dipstick: WBC {/HPF}
+RBC UA,UA - Dipstick: RBC {/HPF}
+SQUAMOUS EPITHELIAL UA,UA - Dipstick: Squamous Epithelia {/LPF}
+BACTERIA UA,UA - Dipstick: Bacteria {/HPF}
+ UA,NA
+HEPATITIS C AB.SER/PLAS.ORD.EIA (BEAKER),"PB - Pathology: Hepatitis C {0 = Negative, 1 = Positive}"
+MICROSCOPIC?,NA
+CREATINE KINASE.SER/PLAS.QN (BEAKER),PB - Blood Chemistry: Creatine Kinase {mg/dL}
+"CMV, IGG",PB - Pathology: CMV IgG {U/mL}
+CMV IGG INTERPRETATION,"PB - Pathology: CMV IgG {0 = Non-reactive, 1 = Positive}"
+HEPATITIS B SURFACE AB.SER/PLAS.ORD (BEAKER),"PB - Pathology: Hepatitis B {0 = Non-reactive, 1 = Reactive}"
+HEPATITIS B SURFACE AB.SER/PLAS.QN (BEAKER),PB - Pathology: Hepatitis B {mIU/mL}
+"EBV AB IGG, VCA",PB - Pathology: EBV VCA - Epstein Barr Virus Viral Capsid Antigen IgG {U/mL}
+"EBV AB IGG, VIRALCAP, INTERP","PB - Pathology: EBV VCA - Epstein Barr Virus Viral Capsid Antigen IgG {0 = Non-reactive, 1 = Positive}"
+"EBV AB IGM, VCA",PB - Pathology: EBV VCA - Epstein Barr Virus Viral Capsid Antigen IgM {U/mL}
+"EBV AB IGM, VCA, INTERP","PB - Pathology: EBV VCA - Epstein Barr Virus Viral Capsid Antigen IgM {0 = Non-reactive, 1 = Positive}"
+"EBV AB IGG, EARLY",PB - Pathology: EBV Early IgG {U/mL}
+"EBV AB IGG, EARLY, INTERPRETATION","PB - Pathology: EBV Early IgG {0 = Non-reactive, 1 = Positive}"
+"EBV AB IGG, NUCLEAR ANTIGEN (REF)",PB - Pathology: EBV VCA - Epstein Barr Virus Nuclear Antigen IgG {U/mL}
+"EBV AB IGG, NUCLEAR ANTIGEN, INTERPRETATION","PB - Pathology: EBV VCA - Epstein Barr Virus Nuclear Antigen IgG {0 = Non-reactive, 1 = Positive}"
+TROPONIN I.SER/PLAS.QN (BEAKER)(DUP),PB - Blood Chemistry: Troponin {ng/dL}
+POC COLOR UA,UA - Dipstick: Color
+POC CLARITY UA,UA - Dipstick: Clarity
+POC GLUCOSE UA,UA - Dipstick: Glucose {mg/dL}
+POC BILIRUBIN UA,UA - Dipstick: Bilirubin
+POC KETONES UA,UA - Dipstick: Ketones {mg/dL}
+POC SPECIFIC GRAVITY UA,UA - Dipstick: Specific Gravity
+POC BLOOD UA,UA - Dipstick: Blood
+POC PH UA,UA - Dipstick: pH
+POC PROTEIN UA,UA - Dipstick: Protein {mg/dL)
+POC UROBILINOGEN UA,UA - Dipstick: Urobilinogen {IU/dL}
+POC NITRITE UA,UA - Dipstick: Nitrites
+POC LEUKOCYTE ESTERASE UA,UA - Dipstick: Leukocytes {mg/dL}
+REDUCING SUBSTANCES UA,UA - Dipstick: Reducing Substances
+ICTOTEST,UA - Dipstick: Ictotest
+REMARK,NA
+HCG.SER/PLAS.ORD (BEAKER),"PB - Blood Chemistry: HCG - Human Chorionic Gonadotropin {0 = Negative, 1 = Positive}"
+VALPROIC ACID TOTAL,PB - Blood Chemistry: Valproic Acid Total {ug/mL}
+DATE/TIME VALPROIC DOSE,NA
+AMMONIA.SER/PLAS.QN (UMOL/L)(BEAKER),PB - Blood Chemistry: Serum Ammonia {umol/L}
+ATYPICAL LYMPHS-MAN(DIFF),PB - Manual Differential: Atypical Lymphocytes {Percent}
+PROCALCITONIN (REF),PB - Blood Chemistry: Serum Procalcitonin {ng/mL}
+MISCELLANEOUS LAB TEST ORDER,NA
+ARUP MISC TEST 1,NA
+RETIC %,PB - CBC: Reticulocyte {Percent}
+COLLECTION METHOD 5,NA
+"HSV 1 AB, IGG, GLYCOPROTEIN G",PB - Pathology: Herpes Simplex Virus 1 IgG Glycoprotein {Count}
+"HSV 1 AB, GLYCOPROTEIN G, INTERP","PB - Pathology: Herpes Simplex Virus 1 IgG Glycoprotein {0 = Non-reactive, 1 = Positive}"
+"HSV 2 AB, IGG, GLYCOPROTEIN G",PB - Pathology: Herpes Simplex Virus 2 IgG Glycoprotein {Count}
+"HSV 2 AB, GLYCOPROTEIN G, INTERP","PB - Pathology: Herpes Simplex Virus 2 IgG Glycoprotein {0 = Non-reactive, 1 = Positive}"
+HIV 1/2 AB AND P24 AG.SER/PLAS.NOM (REF),"PB - Pathology: HIV 1/2 {0 = Non-reactive, 1 = Positive}"
+CORTISOL BASELINE,PB - Blood Chemistry: Cortisol {ug/dL}
+ANTIBODY SCREEN.SER/PLAS.ORD (REF),NA
+ABO GROUP.BLOOD.NOM (BEAKER),"PB - Blood Type: ABO {0= A, 1= B, 2=O, 3=AB}"
+RH TYPE.BLOOD.NOM,"PB - Blood Type: RH {0 = Positive, 1 = Negative}"
+SODIUM,PB - Blood Chemistry: Sodium {mmol/L}
+"EOSINOPHIL, URINE (AK)",UA - Lab Analysis: Eosinophils 
+FINAL REPORT,NA
+GRAM STAIN RESULT (REF),NA
+LVEF-TTE ECHO,NA
+AORTIC ROOT DIAMETER,NA
+AMORPHOUS CRYSTALS UA,NA
+ASCENDING AORTA,NA
+AV CUSP SEPARATION MM,NA
+AV LVOT MEAN GRADIENT,NA
+AV LVOT PEAK GRADIENT,NA
+AV MEAN GRADIENT,NA
+AV MEAN VELOCITY,NA
+AV PEAK GRADIENT,NA
+AV VALVE AREA,NA
+BASE EXCESS.BLDA.QN (BEAKER),NA
+BASE EXCESS.BLDV.QN (BEAKER),NA
+BASELINE BLOOD PRESSURE,NA
+BICARBONATE.BLDA.QN (BEAKER),NA
+BICARBONATE.BLDV.QN (BEAKER),NA
+BLOOD PRODUCT EXPIRATION DATE AND TIME,NA
+BLOOD TYPE BARCODE,NA
+B-TYPE NATRIURETIC PEPTIDE,NA
+CARBON DIOXIDE.BLDA.QN (BEAKER),NA
+CARBON DIOXIDE.BLDV.QN (BEAKER),NA
+CBC % NRBC (BEAKER),PB - CBC: NRBC - Nucleated Red Blood Cells {Percent}
+"CBC GRANULOCYTES, IMMATURE %.BLD.QN",NA
+"CBC GRANULOCYTES, IMMATURE ABSOLUTE.BLD.QN (K/UL)",NA
+CD4 (HELPER T-CELLS) ABSOLUTE,NA
+CD4% (HELPER T-CELLS),NA
+CD45 ABSOLUTE,NA
+CD8 (SUPPRESSOR T CELL) ABSOLUTE,NA
+CD8% (SUPPRESSOR T CELL),NA
+"CMV, QUANT, IU/ML",NA
+"CMV, QUANT, LOG IU/ML",NA
+"CMV, QUANT,(COPY/ML)",NA
+"CMV, QUANT,(LOG COPY/ML)",NA
+COARSE GRANULAR CASTS UA,NA
+CORTISOL (DEXAMETHASONE SUPPRESSION),NA
+"CORTISOL, STIM, 30 MIN",NA
+"CORTISOL, STIM, 60 MIN",NA
+D-DIMER.PLAS.QN (FEU NG/ML)(BEAKER),NA
+CREATININE.SER/PLAS.QN (BEAKER),PB - Blood Chemistry: Creatinine {mg/dL}
+DELETED - HEMOGLOBIN.BLOOD.QN.AUTO (BEAKER),NA
+DO NOT USE - RETIC %,NA
+DOP CALC AO PEAK VEL,NA
+DOP CALC AO VTI,NA
+DOP CALC LVOT DIAMETER,NA
+DOP CALC LVOT PEAK VEL,NA
+DOP CALCLVOT PEAK VEL VTI,NA
+ESTIMATED AVERAGE GLUCOSE.BLOOD.QN ,NA
+FERRITIN.SER/PLAS.QN (NG/ML)(1DEC)(BEAKER),NA
+FINE GRANULAR CASTS UA,NA
+FRACTIONAL SHORTENING,NA
+HBV QUANT PCR,NA
+HEART RATE,NA
+HEMOGLOBIN A1C.BLOOD.QN (%)(BEAKER),NA
+HYALINE CASTS UA,NA
+"IRON.QN, TOTAL (UG/DL)(BEAKER)",NA
+IVC-EXP,NA
+IVS DIASTOLIC THICKNESS MM,NA
+LA AREA,NA
+LA SYSTOLIC DIAMETER MM,NA
+LA/AORTA RATIO,NA
+LACTATE.BLDV.QN (REF),NA
+"LARGE MONOCYTES, BODY FLUID",NA
+LEFT ATRIUM VOLUME,NA
+LEFT ATRIUM VOLUME INDEX,NA
+LEFT VENTRICULAR INTERNAL DIMENSION IN DIASTOLE,NA
+LIPASE.SER/PLAS.QN (U/L)(BEAKER),NA
+LV AREA DIASTOLIC,NA
+LV DIASTOLIC LENGTH 4C,NA
+% SATURATION,NA
+LV EJECTION FRACTION MOD BP,NA
+LV SYSTOLIC AREA PSAX,NA
+LV SYSTOLIC DIAMETER MM,NA
+LVEDV (SIMPSON'S),NA
+LVEDVI,NA
+LVESV (SIMPSON'S),NA
+LVESVI,NA
+LVOT MEAN VELOCITY,NA
+LVPW DIASTOLIC THICKNESS MM,NA
+LYMPHOCYTES %.BF.QN,NA
+MONOCYTE BODY FLUID,NA
+MUCUS UA,NA
+MV  E/E' LATERAL,NA
+MV DECLERATION TIME,NA
+MV E' LATERAL VELOCITY,NA
+MV E/A RATIO,NA
+MV PEAK A-WAVE,NA
+MV PEAK E-WAVE,NA
+NEUTROPHILS BODY FLUID,NA
+OSMOLALITY URINE,NA
+OTHER CELLS %.BF.QN,NA
+OTHER CELLS-REL(DIFF),NA
+OXYGEN SATURATION.BLDA.QN (BEAKER),NA
+OXYGEN SATURATION.BLDV.QN (BEAKER),NA
+OXYGEN.BLDA.QN (BEAKER),NA
+OXYGEN.BLDV.QN (BEAKER),NA
+PASP ESTIMATED,NA
+PATIENT HEIGHT,NA
+PATIENT WEIGHT (LBS),NA
+PH.BLDA.QN (BEAKER),NA
+PH.BLDV.QN (BEAKER),NA
+"POC SPECIFIC GRAVITY,URINE",NA
+PREALBUMIN.SER/PLAS.QN (MG/DL)(BEAKER),NA
+PV ACCELERATION TIME,NA
+RA AREA,NA
+RA PRESSURE,NA
+RAP ESTIMATED,NA
+RBC BODY FLUID,NA
+RBC UA.URINE SED.NOM (HPF)(BEAKER),NA
+"RDW, CV",PB - CBC: RDW-CV {Percent}
+"RDW, SD",PB - CBC: RDW-SD {fL}
+RV DIASTOLIC BASAL DIAMETER,NA
+RV DIASTOLIC LENGTH,NA
+RV SYSTOLIC PRESSURE,NA
+RV TAPSE,NA
+RVSP ESTIMATED,NA
+"SODIUM,URINE",NA
+STROKE VOLUME INDEX,NA
+TEICHOLZ EF CALC,NA
+TOTAL IRON BINDING CAPACITY,NA
+TR PEAK GRADIENT,NA
+TR VELOCITY,NA
+VELOCITY RATIO V1/V2,NA
+"VITAMIN D, 25 HYDROXY",NA
+VOLUME BODY FLUID,NA
+WBC BODY FLUID,NA
+WBC UA.URINE SED.NOM (HPF)(BEAKER),NA
